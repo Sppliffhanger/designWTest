@@ -1,0 +1,4 @@
+VAR
+        gStruInputs : MyInputsType; (*erfwerf*)
+        gStrOut : MyOutputType; (*asdefe*)
+END_VAR

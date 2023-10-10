@@ -1,0 +1,5 @@
+VAR
+Out2 : REAL;
+
+	    gain : REAL := 0.5; (*myGain*)
+END_VAR

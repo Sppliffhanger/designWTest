@@ -1,0 +1,105 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+B%R Automation Studio Target For Simulink
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+********** B&R Build Information **********
+
+ ASTarget Version:                 *6.8.0 (22-Mar-2023)*
+ ASTarget Install Path:            *C:\BRAutomation\B&R Automation Studio Target for Simulink 6.8.0*
+ MATLAB Version:                   *2023a*
+
+********** Model Settings **********
+
+ Modelname:                        *testProject*
+ Number of Models:                 *1*
+ Path:                             *C:\Schulung\MatlabSimmulink\testProject\firstProject\MatlabSim\FB*
+ Coder:                            *ERT*Fixed-step*
+ System Target File:               *bur_ert*bur_ert.tlc*
+ Language:                         *C*C*
+ Simulation:                       *0*
+ Start Time:                       **0.0*
+ Stop Time:                        **inf*
+ Solver:                           *FixedStepDiscrete*FixedStepDiscrete*
+ Step size:                        *0.01*0.01*
+ maxIDLength:                      **31*
+
+ Floating Point support:           *1*off*
+ Continuous Time support:          *1*on*
+ Non Finite Numbers support:       *0*off*
+ Non Inlined S-Functions support:  *0*off*
+ Complex Numbers support:          *1*on*
+ Variable Size Signals support:    *0*off*
+ Absolute Time support:            *1*on*
+
+********** B&R Basic Settings **********
+
+ Taskgeneration:                   *1*
+ Fub-generation:                   *0*
+ Guidline Fub-generation:          *0*
+ Zip:                              *0*
+
+ AS Project Path:                  *C:\Schulung\MatlabSimmulink\testProject\firstProject\FBProject\TaskTest\test*
+ AS project Name:                  **
+ Task Name:                        *MSTask*
+ Fub Name:                         **
+ Zip Folder Name:                  **
+
+ Add to HW:                        *1*
+ Configuration Name:               *Config1*
+ PLC Name:                         *X20CP1586*
+ Task Class:                       *49*
+ Change Task Class:                *0*
+ Task Cycle Time:                  *0.01*
+ Task Class Tolerance:             *0.01*
+ System Tick:                      *0.001*
+
+********** B&R Advanced Settings **********
+
+ Heapsize:                         *6553500*
+ Expert Mode:                      *1*
+ Logging:                          *1*
+ Create Global Var-Typ Files:      *0*
+ Simscape support:                 *0*
+ Automatic Transfer:               *0*
+ Additional Compiler Switches:     **
+ Version:                          *1.00.0*
+
+ External Mode:                    *0*off*
+ Buffer Size:                      *1000000*1.000000e+06*
+ IP-Adress:                        *127.0.0.1*'127.0.0.1'*
+ Port:                             *17725*
+ Verbose Mode:                     *0*
+
+ Description Enable:               *0*
+ Description:                      **
+
+ Pre Processing:                   *0*
+ PreP File Name:                   **
+
+ Post Processing:                  *0*
+ PP File Name:                     **
+
+ Add to AS Package:                *0*
+ Package Name:                     **
+ Package Lib Name:                 **
+
+ Encryption:                       *0*
+ Password:                         ******************
+ Encryption Path:                  *C:\Schulung\MatlabSimmulink\testProject\firstProject\FBProject\TaskTest\test\Logical\MSTask\*
+
+********** B&R Additional Files **********
+
+ Not implemented
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Build Logfile
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+03-Oct-2023 11:38:16	ShowProgressBar 	 	step 	-
+03-Oct-2023 11:38:16	MinorProgress 	Prearrangement 	Starting Model Settings Checkup Procedure 	-
+03-Oct-2023 11:38:16	MinorProgress 	Post Processing 	Running custom post processing 	-
+03-Oct-2023 11:38:16	MinorProgress 	Prearrangement 	Check Model for multiple function blocks 	-
+03-Oct-2023 11:38:16	MinorProgress 	Prearrangement 	Clean Files 	-
+03-Oct-2023 11:38:16	MinorProgress 	Prearrangement 	Clean Folders 	-
+03-Oct-2023 11:38:17	MinorProgress 	Prearrangement 	Check Registry 	-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+EOF
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
